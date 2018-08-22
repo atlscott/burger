@@ -11,7 +11,6 @@ Important
 
 Be sure to utilize the MYSQL Heroku Deployment Guide in order to deploy your assignment.
 
-
 Before You Begin
 
 
