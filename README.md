@@ -1,6 +1,8 @@
 # burger
 Node Express Handlebars
 
+Link to heroku app:
+https://burger-app-gt.herokuapp.com/index
 
 Overview
 
